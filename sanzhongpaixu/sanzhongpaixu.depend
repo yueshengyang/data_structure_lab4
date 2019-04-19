@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513490620 source:e:\codeblocks\office chijiayang\sanzhongpaixu\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+
